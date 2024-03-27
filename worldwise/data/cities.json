@@ -1,0 +1,15 @@
+{
+  "cities": [
+    {
+      "id": "4440",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "date": "2024-03-25T19:47:48.143Z",
+      "notes": "awesome",
+      "position": {
+        "lat": "40.36498420194672",
+        "lng": "-3.7353515625000004"
+      }
+    }
+  ]
+}
